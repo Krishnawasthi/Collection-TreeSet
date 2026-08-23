@@ -1,5 +1,8 @@
 # Collection-TreeSet
 
+<img width="760" height="401" alt="image" src="https://github.com/user-attachments/assets/d83f052a-154e-42f8-9e7f-e81c88902d8d" />
+
+
 In Java, a TreeSet is primarily used when you need to store a collection of unique elements that must be kept in a sorted order.
 
 Because it implements the NavigableSet interface, it doesn't just store data; it organizes it dynamically, making it highly efficient for fetching data based on ranges or closest matches.
