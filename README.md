@@ -1,6 +1,6 @@
 # Collection-TreeSet
 
-<img width="760" height="401" alt="image" src="https://github.com/user-attachments/assets/d83f052a-154e-42f8-9e7f-e81c88902d8d" />
+<img width="960" height="301" alt="image" src="https://github.com/user-attachments/assets/d83f052a-154e-42f8-9e7f-e81c88902d8d" />
 
 
 In Java, a TreeSet is primarily used when you need to store a collection of unique elements that must be kept in a sorted order.
