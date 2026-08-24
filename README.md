@@ -10,6 +10,9 @@
 
 ### so must implement comparable Interface and compareTo method
 
+<img width="1033" height="316" alt="image" src="https://github.com/user-attachments/assets/1124107c-1e3e-4228-a075-627fbc456ff2" />
+
+### treeset will never allow null cuz it need to compare the content.
 In Java, a TreeSet is primarily used when you need to store a collection of unique elements that must be kept in a sorted order.
 
 Because it implements the NavigableSet interface, it doesn't just store data; it organizes it dynamically, making it highly efficient for fetching data based on ranges or closest matches.
