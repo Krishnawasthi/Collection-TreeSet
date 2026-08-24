@@ -2,6 +2,9 @@
 
 <img width="960" height="301" alt="image" src="https://github.com/user-attachments/assets/d83f052a-154e-42f8-9e7f-e81c88902d8d" />
 
+<img width="1491" height="369" alt="image" src="https://github.com/user-attachments/assets/b0c9d158-d50c-491f-bf9b-12fad2ca6279" />
+
+### Object must be comparable otherwise you will get Exception
 
 In Java, a TreeSet is primarily used when you need to store a collection of unique elements that must be kept in a sorted order.
 
