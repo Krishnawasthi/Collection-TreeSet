@@ -41,6 +41,7 @@ public class Driver {
        
        
 		
+       //for each loop
 	  for( Payment pay : payset) {
 		  
 		  
@@ -49,6 +50,20 @@ public class Driver {
 		  System.out.println();
 
 	  }
+	  //iterator looping
+	  
+	  Iterator<Payment> itr = payset.iterator();
+	  
+	  while(itr.hasNext()) { //until the elements inside the next of iterator
+		  
+		  Payment paym = itr.next();
+		  
+		  System.out.println(paym.refId);
+	  }
+	  
+	  
+	  
+	  
 	}
 
 }
