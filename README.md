@@ -6,6 +6,10 @@
 
 ### Object must be comparable otherwise you will get Exception
 
+<img width="1388" height="367" alt="image" src="https://github.com/user-attachments/assets/81d76e4a-2841-4ba1-ae2c-71e16b66037b" />
+
+### so must implement comparable Interface and compareTo method
+
 In Java, a TreeSet is primarily used when you need to store a collection of unique elements that must be kept in a sorted order.
 
 Because it implements the NavigableSet interface, it doesn't just store data; it organizes it dynamically, making it highly efficient for fetching data based on ranges or closest matches.
