@@ -2,6 +2,8 @@
 
 <img width="960" height="301" alt="image" src="https://github.com/user-attachments/assets/d83f052a-154e-42f8-9e7f-e81c88902d8d" />
 
+<img width="790" height="203" alt="image" src="https://github.com/user-attachments/assets/7737c847-9c83-4908-8fdd-f8c35716c976" />
+
 <img width="1491" height="369" alt="image" src="https://github.com/user-attachments/assets/b0c9d158-d50c-491f-bf9b-12fad2ca6279" />
 
 ### Object must be comparable otherwise you will get Exception
@@ -10,6 +12,9 @@
 
 ### so must implement comparable Interface and compareTo method
 
+<img width="1033" height="316" alt="image" src="https://github.com/user-attachments/assets/1124107c-1e3e-4228-a075-627fbc456ff2" />
+
+### treeset will never allow null cuz it need to compare the content.
 In Java, a TreeSet is primarily used when you need to store a collection of unique elements that must be kept in a sorted order.
 
 Because it implements the NavigableSet interface, it doesn't just store data; it organizes it dynamically, making it highly efficient for fetching data based on ranges or closest matches.
