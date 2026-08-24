@@ -2,6 +2,8 @@
 
 <img width="960" height="301" alt="image" src="https://github.com/user-attachments/assets/d83f052a-154e-42f8-9e7f-e81c88902d8d" />
 
+<img width="790" height="203" alt="image" src="https://github.com/user-attachments/assets/7737c847-9c83-4908-8fdd-f8c35716c976" />
+
 <img width="1491" height="369" alt="image" src="https://github.com/user-attachments/assets/b0c9d158-d50c-491f-bf9b-12fad2ca6279" />
 
 ### Object must be comparable otherwise you will get Exception
